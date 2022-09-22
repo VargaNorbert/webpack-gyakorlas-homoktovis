@@ -1,0 +1,12 @@
+#cim{
+    font-size: 50px;
+    text-align: center;
+    width: auto;
+    height: 200px;
+    background-color: orange ;
+    margin: auto;
+}
+
+body{
+    background-image: url("/images/hatter.png");
+}
