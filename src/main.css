@@ -1,12 +1,73 @@
 #cim{
-    font-size: 50px;
     text-align: center;
     width: auto;
-    height: 200px;
+    height: 250px;
     background-color: orange ;
-    margin: auto;
+    padding-top:6%;
+}
+
+#homoktovis{
+    font-size: 70px;
 }
 
 body{
     background-image: url("/images/hatter.png");
 }
+
+.row{
+    margin-bottom: 30px;
+}
+
+nav .navbar-nav li a{
+    color: orange !important;
+}
+
+ul{
+    margin: auto;
+}
+
+#close {
+    float: right;
+    display:inline-block;
+    padding:2px 5px;
+    background:orange;
+}
+
+.kupon{
+    background-color: orange;
+}
+
+#bokorszoveg{
+    background-color: white;
+    padding: 13px;
+}
+
+#bokor{
+    display: block;
+    margin: auto;
+}
+
+.kep{
+    width: 100%;
+}
+
+
+.cimke{
+    width: 100%;
+    background-color: orange;
+    margin: 0;
+    padding: 12px;
+}
+
+.szoveg{
+    background-color: white;
+    margin: 0;
+    padding: 12px;
+}
+
+.felsorolas{
+    border-bottom: 1px solid black;
+}
+
+
+
